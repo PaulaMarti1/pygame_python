@@ -24,4 +24,3 @@ def run_game():
         ship.blitme()
         pygame.display.flip()
 run_game()
-print("Ahoj Paula, tu Krecik")
